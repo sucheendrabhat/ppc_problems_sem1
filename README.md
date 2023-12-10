@@ -19,27 +19,18 @@
 - Loops and their behavior – entry and exit controlled loops, conditional and unconditional jump statements, Nested loops.
 - **Duration:** 8 Hrs
 
-<details>
-<summary style="color: #FF5733">**Unit-V: Arrays**</summary>
-
+## Unit-V: Arrays
 - Single and multidimensional arrays.
 - Advantages and disadvantages of arrays.
 - Searching and sorting.
 - **Duration:** 8 Hrs
-</details>
 
-<details>
-<summary style="color: #33FF57">**Unit-VI: Strings**</summary>
-
+## Unit-VI: Strings
 - Definition.
 - Different ways of reading and printing strings.
 - String handling functions, applications.
 - **Duration:** 8 Hrs
-</details>
 
-<details>
-<summary style="color: #5733FF">**Unit-VII: Modular Programming**</summary>
-
+## Unit-VII: Modular Programming
 - Declaration, definition, and use of functions.
 - Passing parameters to functions.
-</details>
